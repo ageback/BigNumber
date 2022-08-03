@@ -1,4 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//算法描述参见 https://makolyte.com/algorithm-explained-sum-two-big-integers-the-hard-way/
+// See https://aka.ms/new-console-template for more information
 using BigNumber;
 using System.Numerics;
 using System.Text;
